@@ -2,7 +2,7 @@ print("*******************Welcome To the Quiz Game*******************")
 x=input("please enter you name:")
 y=int(input("please enter your age:"))
 
-print("welcome "+x+" to this quiz there will be 10 mcq question and each carrys 1 mark")
+print("welcome "+x+" to this quiz there will be 5 mcq question and each carrys 1 mark")
 print()
 z=input("would you like to enter this game:(yes/no)")
 
